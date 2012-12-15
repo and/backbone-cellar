@@ -9,7 +9,7 @@ If you just want to look at the final version of the application, look in the [f
 
 You can also follow the tutorial and build the application step by step:
 
-- In Part 1 ([doc](http://coenraets.org/blog/2011/12/backbone-js-wine-cellar-tutorial-part-1-getting-started/) - [code](https://github.com/ccoenraets/backbone-cellar/tree/master/part1)), you define the basic infrastructure. You create a “read-only” version of the application: you’ll be able to retrieve a list of wine and get the details of each wine.
+- In Part 1 ([doc](http://coenraets.org/blog/2011/12/backbone-js-wine-cellar-tutorial-part-1-getting-started/) - [code](https://github.com/ccoenraets/backbone-cellar/tree/master/tutorial/part1)), you define the basic infrastructure. You create a “read-only” version of the application: you’ll be able to retrieve a list of wine and get the details of each wine.
 - In Part 2 ([doc](http://coenraets.org/blog/2011/12/backbone-js-wine-cellar-tutorial-part-2-crud/) - [code](https://github.com/ccoenraets/backbone-cellar/tree/master/part2)), you add the code to add, update and delete wines. You leverage Backbone’s powerful REST integration.
 - In Part 3 ([doc](http://coenraets.org/blog/2011/12/backbone-js-wine-cellar-tutorial-part-3-deep-linking-and-application-states/) - [code](https://github.com/ccoenraets/backbone-cellar/tree/master/part3)), you add complete support for history management and deep linking.
 - In Part 4 ([doc](http://coenraets.org/blog/2012/01/backbone-js-lessons-learned-and-improved-sample-app/) - [code](https://github.com/ccoenraets/backbone-cellar/tree/master/final)), you load templates asynchronously and implement a few best practices.
